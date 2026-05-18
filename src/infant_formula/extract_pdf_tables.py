@@ -3,9 +3,10 @@ import json
 import pdfplumber
 import pandas as pd
 
-INPUTS_DIR = Path("inputs")
-OUT_DIR = Path("outputs")
-CONFIGS_DIR = Path("configs")
+_REPO_ROOT = Path(__file__).parent.parent.parent
+INPUTS_DIR = _REPO_ROOT / "inputs"
+OUT_DIR = _REPO_ROOT / "outputs"
+CONFIGS_DIR = _REPO_ROOT / "configs"
 
 PDFS = {
     INPUTS_DIR / "Consumer-Reports-Baby-Formula-Test-Results-v4-March-2026.pdf": 2026,

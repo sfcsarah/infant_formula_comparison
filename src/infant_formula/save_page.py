@@ -4,8 +4,9 @@ from pathlib import Path
 import pandas as pd
 from playwright.sync_api import sync_playwright
 
-CSV_PATH = Path("outputs/all_formula_ingredients.csv")
-WEB_LINKS_DIR = Path("outputs/web_links")
+_REPO_ROOT = Path(__file__).parent.parent.parent
+CSV_PATH = _REPO_ROOT / "outputs" / "all_formula_ingredients.csv"
+WEB_LINKS_DIR = _REPO_ROOT / "outputs" / "web_links"
 
 
 def save_pdf(url: str, brand: str, model: str, index_100: int) -> None:
