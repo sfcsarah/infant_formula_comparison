@@ -11,6 +11,13 @@ def collate() -> None:
 
     df = pd.concat([pd.read_csv(f) for f in csvs], ignore_index=True)
 
+    # remove thousands-separator commas from numeric-like strings
+    # (e.g. "8,026,667" -> "8026667"). leave ND and NT as strings.
+    cols_to_fix = df.columns.difference(["brand", "model"])
+    for col in cols_to_fix:
+        if df[col].dtype == "object":
+            df[col] = df[col].str.replace(",", "", regex=False)
+
     # subheader rows (e.g. "POWDERED", "LIQUID") have no model value
     df = df[df["model"].notna()]
 
