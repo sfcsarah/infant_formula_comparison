@@ -2,6 +2,8 @@ from pathlib import Path
 import pandas as pd
 
 OUTPUTS_DIR = Path(__file__).parent.parent.parent / "outputs"
+INPUTS_DIR = Path(__file__).parent.parent.parent / "inputs"
+
 
 
 def collate() -> None:

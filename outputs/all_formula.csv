@@ -1,23 +1,23 @@
 brand,model,total_arsenic,inorganic_arsenic,lead,cadmium,mercury,aluminum,potassium,bisphenol_a,bisphenol_f,bisphenol_s,acrylamide,report_year
 Enfamil,Sensitive,10.6,9.0,1.8,ND,ND,272,"8,026,667",ND,ND,ND,ND,2026
 Enfamil,"Nutramigen with Probiotic
-LGG",8.4,7.6,5.7,2.1,ND,"2,187","6,970,000",8,ND,ND,12.0,2026
-Dr. Brown’s,Good Start Soy-Ease Pro,9.9,7.9,2.3,4.3,0.5,"4,403","6,806,667",ND,ND,ND,ND,2026
+LGG",8.4,7.6,5.7,2.1,ND,2187,"6,970,000",8,ND,ND,12.0,2026
+Dr. Brown’s,Good Start Soy-Ease Pro,9.9,7.9,2.3,4.3,0.5,4403,"6,806,667",ND,ND,ND,ND,2026
 Pepticate,Hypoallergenic,8.6,7.0,3.1,1.5,0.9,282,"5,220,000",ND,ND,ND,ND,2026
 Nannycare,Goat milk based,8.3,6.1,ND,ND,ND,201,"6,753,333",2,ND,ND,ND,2026
 Up & Up (Target),Hypoallergenic,7.4,5.9,2.1,ND,ND,448,"7,673,333",ND,ND,ND,ND,2026
 Nestle,Alfamino,6.5,5.2,8.8,2.3,ND,763,"6,130,000",ND,ND,ND,ND,2026
-Up & Up (Target),Sensitivity Premium,5.7,5.0,1.8,ND,ND,"1,585","5,593,333",ND,ND,ND,ND,2026
-Sprout Organics,Plant-Based,15.1,4.5,8.5,22.4,1.6,"4,463","5,166,667",3,ND,ND,18,2026
+Up & Up (Target),Sensitivity Premium,5.7,5.0,1.8,ND,ND,1585,"5,593,333",ND,ND,ND,ND,2026
+Sprout Organics,Plant-Based,15.1,4.5,8.5,22.4,1.6,4463,"5,166,667",3,ND,ND,18,2026
 Enfamil,NeuroPro Enfacare,5.2,3.8,ND,3.1,ND,420,"6,960,000",ND,ND,ND,ND,2026
-Parent’s Choice,Sensitivity Premium,5.1,3.59,1.6,ND,0.64,"2,000","5,863,333",ND,ND,ND,ND,2026
+Parent’s Choice,Sensitivity Premium,5.1,3.59,1.6,ND,0.64,2000,"5,863,333",ND,ND,ND,ND,2026
 Nestle,Extensive HA,4.6,3.3,4.1,ND,ND,321,"7,073,333",ND,ND,ND,ND,2026
 Enfamil,Reguline,3.8,3.0,ND,3.0,ND,785,"7,296,667",ND,ND,ND,ND,2026
 Kendamil,Goat,3.7,2.6,1.6,ND,ND,72,"6,510,000",ND,ND,ND,ND,2026
 Earth’s Best,Organic Sensitivity,3.0,NT,1.9,ND,ND,316,"4,956,667",ND,ND,ND,ND,2026
 Neocate,Syneo Hypoallergenic,3.3,NT,3.1,1.4,0.3,328,"5,253,333",ND,ND,ND,ND,2026
 Enfamil,Infant Formula,ND,NT,ND,4.4,0.6,142,"6,413,333",ND,ND,ND,ND,2026
-Mama Bear,Sensitivity Premium,3.6,NT,1.5,2.4,ND,"2,823","6,200,000",ND,ND,ND,ND,2026
+Mama Bear,Sensitivity Premium,3.6,NT,1.5,2.4,ND,2823,"6,200,000",ND,ND,ND,ND,2026
 Jovie,Stage 1 Organic Goat Milk,2.4,NT,1.9,ND,ND,706,"6,800,000",ND,ND,ND,ND,2026
 "Pure Bliss by
 Similac",Irish Farms,3.5,NT,2.0,ND,0.7,587,"6,396,667",ND,ND,ND,ND,2026
@@ -25,30 +25,30 @@ Pure Goat,Bio Complete,ND,NT,2.1,2.5,ND,339,"6,790,000",ND,ND,ND,ND,2026
 HiPP,Hypoallergenic,2.6,NT,1.9,3.3,ND,530,"6,300,000",ND,ND,ND,ND,2026
 Holle,Organic Goat Milk,2.1,NT,2.1,3.3,ND,206,"6,500,000",ND,ND,ND,ND,2026
 "Happy Baby
-Organics",Organic Infant Formula,3.5,NT,1.8,ND,0.92,174.0,"5,223,333",ND,ND,ND,ND,2026
+Organics",Organic Infant Formula,3.5,NT,1.8,ND,0.92,,"5,223,333",ND,ND,ND,ND,2026
 Bobbie,"Grass-Fed Whole Milk
-(non-organic)",ND,NT,ND,ND,ND,95.0,"7,080,000",ND,ND,ND,ND,2026
-Bobbie,Organic Whole Milk,2.0,NT,ND,ND,ND,126.0,"6,210,000",ND,ND,ND,ND,2026
-Similac,Soy Isomil Concentrated,2.2,2.3,1.1,2.6,ND,980.0,"1,533,333",ND,ND,ND,ND,2026
-Similac,Advance Concentrated,0.8,1.0,0.8,ND,ND,137.0,"1,643,333",ND,ND,ND,ND,2026
-Enfamil,Concentrated,0.7,NT,0.6,0.7,ND,166.0,"1,713,333",ND,ND,ND,ND,2026
-Similac,Soy Isomil Ready to Feed,1.4,1.4,0.4,1.0,ND,340.0,"893,000",ND,ND,ND,ND,2026
-Similac,NeoSure Ready to Feed,1.0,0.9,0.4,ND,ND,85.0,"1,150,000",ND,ND,ND,ND,2026
+(non-organic)",ND,NT,ND,ND,ND,,"7,080,000",ND,ND,ND,ND,2026
+Bobbie,Organic Whole Milk,2.0,NT,ND,ND,ND,,"6,210,000",ND,ND,ND,ND,2026
+Similac,Soy Isomil Concentrated,2.2,2.3,1.1,2.6,ND,,"1,533,333",ND,ND,ND,ND,2026
+Similac,Advance Concentrated,0.8,1.0,0.8,ND,ND,,"1,643,333",ND,ND,ND,ND,2026
+Enfamil,Concentrated,0.7,NT,0.6,0.7,ND,,"1,713,333",ND,ND,ND,ND,2026
+Similac,Soy Isomil Ready to Feed,1.4,1.4,0.4,1.0,ND,,"893,000",ND,ND,ND,ND,2026
+Similac,NeoSure Ready to Feed,1.0,0.9,0.4,ND,ND,,"1,150,000",ND,ND,ND,ND,2026
 Similac,"360 Total Care Ready to
-Feed",ND,NT,0.4,ND,ND,62.0,"797,000",ND,ND,ND,ND,2026
+Feed",ND,NT,0.4,ND,ND,,"797,000",ND,ND,ND,ND,2026
 Enfamil,"NeuroPro Gentlease Ready
-to Feed",1.2,1.2,ND,ND,ND,123.0,"901,000",ND,ND,ND,ND,2026
-Enfamil,NeuroPro Ready to Feed,ND,NT,ND,ND,0.27,44.0,"879,667",ND,ND,ND,ND,2026
-Enfamil,Nutramigen Ready to Feed,1.3,1.0,ND,0.5,ND,274.0,"854,333",ND,ND,ND,ND,2026
-Enfamil,Optimum Ready to Feed,ND,NT,ND,ND,ND,17.0,"897,667",ND,ND,ND,ND,2026
+to Feed",1.2,1.2,ND,ND,ND,,"901,000",ND,ND,ND,ND,2026
+Enfamil,NeuroPro Ready to Feed,ND,NT,ND,ND,0.27,,"879,667",ND,ND,ND,ND,2026
+Enfamil,Nutramigen Ready to Feed,1.3,1.0,ND,0.5,ND,,"854,333",ND,ND,ND,ND,2026
+Enfamil,Optimum Ready to Feed,ND,NT,ND,ND,ND,,"897,667",ND,ND,ND,ND,2026
 Nutricia Fortini,"Milk-Based with Iron Ready
-to Feed",0.8,0.8,ND,ND,0.36,36.0,"1,025,333",ND,ND,ND,ND,2026
-Similac,Sensitive Ready to Feed,1.0,0.8,ND,ND,ND,96.0,"952,667",ND,ND,ND,ND,2026
+to Feed",0.8,0.8,ND,ND,0.36,,"1,025,333",ND,ND,ND,ND,2026
+Similac,Sensitive Ready to Feed,1.0,0.8,ND,ND,ND,,"952,667",ND,ND,ND,ND,2026
 Similac,"360 Total Care Sensitive
-Ready to Feed",0.9,0.9,ND,ND,ND,148.0,"991,333",ND,ND,ND,ND,2026
-Similac,Alimentum Ready to Feed,1.4,1.4,0.7,0.6,0.12,442.0,"876,000",ND,ND,ND,ND,2026
-Similac,Advance Ready to Feed,0.7,0.7,ND,ND,0.18,80.0,"882,000",ND,ND,ND,ND,2026
-Similac,Pure Bliss Ready to Feed,ND,NT,ND,ND,ND,24.0,"1,031,333",ND,ND,ND,ND,2026
+Ready to Feed",0.9,0.9,ND,ND,ND,,"991,333",ND,ND,ND,ND,2026
+Similac,Alimentum Ready to Feed,1.4,1.4,0.7,0.6,0.12,,"876,000",ND,ND,ND,ND,2026
+Similac,Advance Ready to Feed,0.7,0.7,ND,ND,0.18,,"882,000",ND,ND,ND,ND,2026
+Similac,Pure Bliss Ready to Feed,ND,NT,ND,ND,ND,,"1,031,333",ND,ND,ND,ND,2026
 Enfamil,"ProSobee Simply Plant-
 Based",1.3,1.3,ND,0.9,ND,390,"907,667",ND,ND,ND,ND,2026
 Enfamil,24 Ready to Feed,0.7,0.8,0.4,ND,ND,162,"1,140,000",ND,ND,ND,ND,2026
@@ -64,27 +64,27 @@ to Feed",0.9,1.0,ND,ND,ND,81,"1,015,333",ND,ND,ND,ND,2026
 Kendamil,"First Infant Milk Ready to
 Feed",ND,NT,ND,ND,0.11,ND,"825,000",ND,ND,ND,ND,2026
 Enfamil,NeuroPro,ND,NT,ND,1.4,ND,89,"6,253,333",ND,ND,ND,ND,2025
-Enfamil,Gentlease,3.7,NT,1.5,3.6,ND,"1,480","7,425,000",ND,ND,ND,ND,2025
+Enfamil,Gentlease,3.7,NT,1.5,3.6,ND,1480,"7,425,000",ND,ND,ND,ND,2025
 Enfamil,NeuroPro Gentlease,5.4,NT,1.6,2.7,ND,141,"7,840,000",ND,ND,ND,ND,2025
 Similac,Advance,ND,NT,2.0,ND,ND,414,"7,040,000",ND,ND,ND,ND,2025
 Similac,"360 Total Care
-Sensitive",4.7,NT,2.8,2.2,ND,"1,163","6,646,667",ND,ND,ND,ND,2025
+Sensitive",4.7,NT,2.8,2.2,ND,1163,"6,646,667",ND,ND,ND,ND,2025
 Similac,360 Total Care,3.2,NT,2.8,1.4,ND,653,"7,340,000",ND,ND,ND,ND,2025
 Earth’s Best,Organic Dairy,ND,NT,1.8,ND,ND,477,"6,375,000",ND,ND,ND,ND,2025
 Similac,NeoSure,9.0,8.7,3.5,ND,ND,799,"7,953,333",ND,ND,ND,ND,2025
-ByHeart,Whole Nutrition,ND,NT,3.5,3.9,ND,"1,280","6,320,000",ND,ND,ND,ND,2025
-Similac,Soy Isomil,4.7,NT,3.6,9.2,ND,"3,973","6,783,333",ND,ND,ND,ND,2025
-Similac,Alimentum,18.0,15.1,3.2,6.9,ND,"1,250","6,795,000",ND,ND,ND,ND,2025
-Similac,Sensitive,ND,NT,3.2,2.1,ND,"1,053","6,450,000",ND,ND,ND,ND,2025
-Bobbie,Organic Gentle,ND,NT,1.5,ND,ND,"1,325","7,376,667",ND,ND,ND,ND,2025
+ByHeart,Whole Nutrition,ND,NT,3.5,3.9,ND,1280,"6,320,000",ND,ND,ND,ND,2025
+Similac,Soy Isomil,4.7,NT,3.6,9.2,ND,3973,"6,783,333",ND,ND,ND,ND,2025
+Similac,Alimentum,18.0,15.1,3.2,6.9,ND,1250,"6,795,000",ND,ND,ND,ND,2025
+Similac,Sensitive,ND,NT,3.2,2.1,ND,1053,"6,450,000",ND,ND,ND,ND,2025
+Bobbie,Organic Gentle,ND,NT,1.5,ND,ND,1325,"7,376,667",ND,ND,ND,ND,2025
 Enfamil,"ProSobee Simply
-Plant-Based",10.3,7.9,2.8,6.2,ND,"2,085","7,390,000",ND,ND,ND,ND,2025
+Plant-Based",10.3,7.9,2.8,6.2,ND,2085,"7,390,000",ND,ND,ND,ND,2025
 "Kirkland
 Signature (Costco)",ProCare,ND,NT,1.7,3.0,ND,314,"7,123,333",ND,ND,ND,ND,2025
 "Member’s Mark
 (Sam’s Club)",Advantage Premium,ND,NT,1.4,2.9,ND,251,"6,903,333",ND,ND,ND,ND,2025
-Up&Up (Target),Soy,6.7,5.3,3.4,4.6,ND,"3,680","6,460,000",ND,ND,ND,ND,2025
-Enfamil,Nutramigen,5.9,NT,4.2,2.0,ND,"1,645","6,540,000",4.8,ND,ND,19,2025
+Up&Up (Target),Soy,6.7,5.3,3.4,4.6,ND,3680,"6,460,000",ND,ND,ND,ND,2025
+Enfamil,Nutramigen,5.9,NT,4.2,2.0,ND,1645,"6,540,000",4.8,ND,ND,19,2025
 Enfamil,A.R.,2.3,NT,1.5,2.3,ND,215,"5,940,000",ND,ND,ND,ND,2025
 Up&Up (Target),Premium,ND,NT,ND,ND,ND,191,"7,005,000",ND,ND,ND,ND,2025
 Kendamil,Whole Milk,ND,NT,1.6,ND,ND,200,"4,983,333",ND,ND,ND,ND,2025
@@ -98,16 +98,16 @@ Parent’s Choice,Advantage Premium,ND,NT,ND,ND,ND,231,"7,130,000",ND,ND,ND,ND,2
 Enfamil,Enspire Optimum,ND,NT,ND,2.3,ND,ND,"5,805,000",ND,ND,ND,ND,2025
 Parent’s Choice,Infant,ND,NT,2.4,3.8,ND,171,"6,550,000",ND,ND,ND,ND,2025
 Bubs,"Stage 1 Organic
-Grass Fed",2.9,NT,1.9,1.9,ND,"1,985","6,135,000",ND,ND,ND,ND,2025
+Grass Fed",2.9,NT,1.9,1.9,ND,1985,"6,135,000",ND,ND,ND,ND,2025
 Neocate,Hypoallergenic,4.5,NT,4.1,2.0,ND,347,"5,285,000",ND,ND,ND,ND,2025
 "Baby’s Only
 Organic",Complete Nutrition,ND,NT,1.4,ND,ND,307,"6,080,000",ND,ND,ND,ND,2025
 PurAmino,Hypoallergenic,11.5,9.1,2.3,ND,ND,439,"6,645,000",ND,ND,ND,ND,2025
-Bobbie,Organic,ND,NT,1.2,ND,ND,"1,030","6,740,000",ND,ND,ND,ND,2025
+Bobbie,Organic,ND,NT,1.2,ND,ND,1030,"6,740,000",ND,ND,ND,ND,2025
 HiPP,Dutch Organic Stage 1,ND,NT,2.1,3.4,ND,160,"5,310,000",ND,ND,ND,ND,2025
-EleCare,Hypoallergenic,23.9,19.7,3.0,ND,ND,"1,218","7,335,000",ND,ND,ND,ND,2025
+EleCare,Hypoallergenic,23.9,19.7,3.0,ND,ND,1218,"7,335,000",ND,ND,ND,ND,2025
 Kabrita,Goat Milk-Based,7.8,8.3,3.7,1.7,ND,450,"6,130,000",ND,ND,ND,ND,2025
-A2,Platinum,ND,NT,2.9,ND,ND,"1,770","5,580,000",ND,ND,ND,ND,2025
+A2,Platinum,ND,NT,2.9,ND,ND,1770,"5,580,000",ND,ND,ND,ND,2025
 Holle,Bio Organic Stage 1,ND,NT,2.2,3.3,ND,422,"5,960,000",ND,ND,ND,ND,2025
 Dr. Brown’s,GentlePro,4.4,NT,ND,ND,ND,148,"6,270,000",ND,ND,ND,ND,2025
 Dr. Brown’s,SoothePro,9.3,8.1,ND,ND,ND,280,"6,600,000",ND,ND,ND,ND,2025
