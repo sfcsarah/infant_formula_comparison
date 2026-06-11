@@ -20,6 +20,10 @@ def collate() -> None:
         if df[col].dtype == "object":
             df[col] = df[col].str.replace(",", "", regex=False)
 
+    # normalise spacing around & so brand names match across PDFs
+    # (e.g. 2026 PDF has "Up & Up (Target)", 2025 has "Up&Up (Target)")
+    df["brand"] = df["brand"].str.replace(r"\s*&\s*", "&", regex=True)
+
     # subheader rows (e.g. "POWDERED", "LIQUID") have no model value
     df = df[df["model"].notna()]
 
