@@ -5,7 +5,7 @@ import pandas as pd
 from playwright.sync_api import sync_playwright
 
 _REPO_ROOT = Path(__file__).parent.parent.parent
-CSV_PATH = _REPO_ROOT / "outputs" / "all_formula_ingredients.csv"
+CSV_PATH = _REPO_ROOT / "inputs" / "all_formula_ingredients_manual_entry.csv"
 WEB_LINKS_DIR = _REPO_ROOT / "outputs" / "web_links"
 
 
