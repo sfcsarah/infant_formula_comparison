@@ -27,7 +27,7 @@ def save_pdf(url: str, brand: str, model: str, index_100: int) -> None:
 
 
 def run(index_100: int) -> None:
-    df = pd.read_csv(CSV_PATH)
+    df = pd.read_csv(CSV_PATH, sep='\t')
     row_index = index_100 - 100
     row = df.iloc[row_index]
 
